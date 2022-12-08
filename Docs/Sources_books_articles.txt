@@ -1,0 +1,3 @@
+https://towardsdatascience.com/how-to-build-a-web-app-to-transcribe-audio-using-python-and-assemblyai-18f197253fd8
+
+https://python.plainenglish.io/speech-recognition-using-python-4ded4cd979ba
