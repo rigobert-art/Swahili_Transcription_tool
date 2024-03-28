@@ -1,2 +1,3 @@
 # Swahili_Transcription_tool
-The Most accurate speech to text transcription tool for the Swahili language
+Fairly accurate machine learning model for Swahili speech transcription.
+> Used a model same as deepspeech model
